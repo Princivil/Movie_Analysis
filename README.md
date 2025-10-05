@@ -4,6 +4,7 @@ This repository contains an end-to-end movie industry analysis using **SQL, Pyth
 The project explores trends in genre momentum, runtime/budget patterns, platform strategies, and intended audience ROI.
 
 ## Repository Structure
+```
 ├── data/ # Database and CSV files
 ├── notebooks/ # Individual chapter notebooks (Phase 1–6)
 │ ├── Phase1.ipynb
@@ -12,6 +13,7 @@ The project explores trends in genre momentum, runtime/budget patterns, platform
 │ └── Phase6.ipynb
 ├── Full_Analysis.ipynb # Continuous "one-pager" combining all phases
 └── README.md
+```
 
 
 - **Spliced Notebooks (Phase 1–6):** Step-by-step breakdown of the analysis.  
