@@ -11,7 +11,7 @@ The project explores trends in genre momentum, runtime/budget patterns, platform
 │ ├── CH2.ipynb
 │ ├── ...
 │ └── CH6.ipynb
-├── Full_Analysis.ipynb # Continuous "one-pager" combining all phases
+├── Full_Analysis.ipynb # Continuous "one-pager" combining all chapters
 └── README.md
 ```
 
