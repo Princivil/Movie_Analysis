@@ -6,23 +6,23 @@ The project explores trends in genre momentum, runtime/budget patterns, platform
 ## Repository Structure
 ```
 ├── data/ # Database and CSV files
-├── notebooks/ # Individual chapter notebooks (Phase 1–6)
-│ ├── Phase1.ipynb
-│ ├── Phase2.ipynb
+├── notebooks/ # Individual chapter notebooks (Chapters 1–6)
+│ ├── CH1.ipynb
+│ ├── CH2.ipynb
 │ ├── ...
-│ └── Phase6.ipynb
-├── Full_Analysis.ipynb # Continuous "one-pager" combining all phases
+│ └── CH6.ipynb
+├── Full_Analysis.ipynb # Continuous "one-pager" combining all chapters
 └── README.md
 ```
 
 
-- **Spliced Notebooks (Phase 1–6):** Step-by-step breakdown of the analysis.  
-- **Full Analysis:** A continuous version combining all phases for streamlined review.  
+- **Spliced Notebooks (Chapters 1–6):** Step-by-step breakdown of the analysis.  
+- **Full Analysis:** A continuous version combining all chapters for streamlined review.  
 - **Data Folder:** Contains the `.db` and `.csv` files used throughout the analysis.  
 
 ---
 
-## Key Findings by Phase
+## Key Findings by Chapter
 - **Directors & Budget Efficiency:** Directors can influence quality, but budget is a weak predictor of success.  
 - **Critical vs Popularity:** High ratings don’t guarantee high revenue (e.g., History excels critically but not financially).  
 - **Platform Strategies:** Disney+ leans on Animation for revenue; Netflix, Hulu, and Prime emphasize Documentaries or niche genres for ratings.  
@@ -47,4 +47,4 @@ By strategically curating diverse portfolios and leveraging proven age–genre R
 ---
 
 For a quick overview, open **Full_Analysis.ipynb**.  
-For step-by-step exploration, review the **Phase 1–6 notebooks** inside `/notebooks`.
+For step-by-step exploration, review the **Chapters 1–6 notebooks** inside `/notebooks`.
